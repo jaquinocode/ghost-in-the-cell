@@ -1,5 +1,5 @@
 # ghost-in-the-cell
-My contest submission for the Ghost In the Cell programming contest on codingame.com!
+My contest submission for the [Ghost In the Cell programming contest](https://www.codingame.com/multiplayer/bot-programming/ghost-in-the-cell) on codingame.com!
 
 ## How to Run the Code
 1. Copy all of the code inside the `main.py` file in this repository.
